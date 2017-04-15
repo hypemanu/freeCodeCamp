@@ -15,8 +15,8 @@
 
 #### Type of Change
 <!-- What type of change does your code introduce? After creating the PR, tick the checkboxes that apply. -->
-- [ ] Small bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds new functionality)
+* [ ] Small bug fix (non-breaking change which fixes an issue)
+* [ ] New feature (non-breaking change which adds new functionality)
 - [ ] Breaking change (fix or feature that would change existing functionality)
 - [ ] Add new translation (feature adding new translations)
 
